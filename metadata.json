@@ -1,0 +1,6 @@
+{
+  "name": "Neta Fight Arena",
+  "description": "A satirical 2D political meme fighting game inspired by shadow fighting games, featuring Narendra Modi vs Rahul Gandhi with dynamic arena crowds, special moves, intelligent AI, and full touch/keyboard controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
